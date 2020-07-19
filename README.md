@@ -1,1 +1,3 @@
 # ctrl_budget
+
+Simple web app to maintain your budget....
