@@ -21,9 +21,9 @@ Procedure to host the project
 
 >> 8) rename the folder => ctrlbudget => to ctrl_budget
 
->> 8) place the ctrl_budget folder in the www or htdocs folder
+>> 9) place the ctrl_budget folder in the www or htdocs folder
 
->> 9) open the folder in browser ( may be localhost/ctrl_budget/ )
+>> 10) open the folder in browser ( may be localhost/ctrl_budget/ )
 
 
 
