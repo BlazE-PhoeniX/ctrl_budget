@@ -17,11 +17,13 @@ Procedure to host the project
 
 >> 6) fill in the host (localhost or 127.0.0.1), username, password and database name in the respective variables
 
->> 7) rename the file => ctrlbudget / htaccess => to .htaccess 
+>> 7) rename the file => ctrlbudget / htaccess => to .htaccess
 
->> 8) place the ctrlbudget folder in the www or htdocs folder
+>> 8) rename the folder => ctrlbudget => to ctrl_budget
 
->> 9) open the folder in browser ( may be localhost/ctrlbudget/ )
+>> 8) place the ctrl_budget folder in the www or htdocs folder
+
+>> 9) open the folder in browser ( may be localhost/ctrl_budget/ )
 
 
 
