@@ -19,9 +19,9 @@ Procedure to host the project
 
 >> 7) rename the file => ctrlbudget / htaccess => to .htaccess 
 
->> 7) place the ctrlbudget folder in the www or htdocs folder
+>> 8) place the ctrlbudget folder in the www or htdocs folder
 
->> 8) open the folder in browser ( may be localhost/ctrlbudget/ )
+>> 9) open the folder in browser ( may be localhost/ctrlbudget/ )
 
 
 
