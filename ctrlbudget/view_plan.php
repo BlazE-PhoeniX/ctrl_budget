@@ -33,7 +33,7 @@ if (isset($_GET['message'])) {
 
 //redirect to index if not loggedin
 if (!$loggedin) {
-    header('location: ../ctrl_budget/');
+    header('location: ../ctrlbudget/');
 }
 
 //redirect to home if plan id is not set
