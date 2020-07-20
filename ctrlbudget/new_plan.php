@@ -4,7 +4,7 @@ include 'includes/checklogin.php';
 
 //Redirect to index page if not logged in
 if (!$loggedin) {
-    header('location: ../ctrl_budget/');
+    header('location: ../ctrlbudget/');
 }
 
 if (isset($_GET['message'])) {
