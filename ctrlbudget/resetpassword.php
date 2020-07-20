@@ -5,7 +5,7 @@
 <!-- Redirect to index page if not logged in -->
 <?php
 if (!$loggedin) {
-    header('location: ../ctrl_budget/');
+    header('location: ../ctrlbudget/');
 }
 
 //server validation errors and messages
