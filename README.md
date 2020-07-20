@@ -9,7 +9,7 @@ Procedure to host the project
 
 >> 2) visit =>   localhost/phpmyadmin
 
->> 3) create a databade with the name 'ctrlbudget'
+>> 3) create a database ( remember the name )
 
 >> 4) enter the database and import the given sql file ctrlbudget.sql 
 
@@ -17,12 +17,12 @@ Procedure to host the project
 
 >> 6) fill in the host (localhost or 127.0.0.1), username, password and database name in the respective variables
 
->> 7) rename the folder => ctrlbudget => to ctrl_budget
+>> 7) place the ctrl_budget folder in the www or htdocs folder
 
->> 8) place the ctrl_budget folder in the www or htdocs folder
+>> 8) open the folder in browser ( may be localhost/ctrl_budget/ )
 
->> 9) open the folder in browser ( may be localhost/ctrl_budget/ )
-
+note:- // username and password denotes your phpmyadmin username and password
+       // if you don't remember setting password, then enter username="root" and leave the password as it is 
 
 
 for model visit:
