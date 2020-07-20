@@ -6,7 +6,7 @@ include 'includes/checklogin.php';
 
 //redirect to index page if not logged in
 if (!$loggedin) {
-    header('location: ../ctrl_budget/');
+    header('location: ../ctrlbudget/');
 }
 
 //display server side messages
