@@ -5,7 +5,7 @@
 <?php
 // redirect ot index page if not looged in
 if (!$loggedin) {
-    header('location: ../ctrl_budget/');
+    header('location: ../ctrlbudget/');
 }
 
 // redirect to home if no plan id is set
