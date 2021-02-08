@@ -1,0 +1,7 @@
+{
+    "name": "control/budget",
+    "description": "Simple expense manager app",
+    "require": {
+        "ext-mysqli": "*"
+    }
+}
