@@ -23,4 +23,6 @@ Procedure to host the project
 note:- // username and password denotes your phpmyadmin username and password
 // if you don't remember setting password, then enter username="root" and leave the password as it is
 
+<-------------------------------------------- Thats it enjoy -------------------------------------------------->
+
 for demo click [here](http://lifestyle-store-blazephoenix.herokuapp.com)
