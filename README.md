@@ -25,4 +25,4 @@ note:- // username and password denotes your phpmyadmin username and password
 
 <-------------------------------------------- Thats it enjoy -------------------------------------------------->
 
-for demo click [here](http://lifestyle-store-blazephoenix.herokuapp.com)
+for demo click [here](http://ctrl-budget-blazephoenix.herokuapp.com)
